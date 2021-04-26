@@ -1,5 +1,5 @@
-Aslı Kök
-M.Sc in Informatics | Technical University of Munich
+# Aslı Kök
+## M.Sc in Informatics | Technical University of Munich
 
 ![counter](https://enb5yzqpgkpxqkl.m.pipedream.net)
 
