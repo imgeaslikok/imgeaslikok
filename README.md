@@ -1,6 +1,10 @@
 # Aslı Kök
 ## M.Sc in Informatics | Technical University of Munich
 
+Python, C++, Matlab
+
+Focusing on Computer Vision and Machine Learning during master's:sparkles:
+
 ![counter](https://enb5yzqpgkpxqkl.m.pipedream.net)
 
 
