@@ -3,7 +3,7 @@
 
 Python, C++, Matlab
 
-Focusing on Computer Vision and Machine Learning during master's:sparkles:
+Focusing on Computer Vision and Machine Learning during my master's:cyclone:
 
 ![counter](https://enb5yzqpgkpxqkl.m.pipedream.net)
 
