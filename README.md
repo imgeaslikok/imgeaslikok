@@ -3,7 +3,7 @@
 
 Python, C++, Matlab
 
-Focusing on Computer Vision and Machine Learning during my master's:cyclone:
+Focusing on Computer Vision as my major area and Machine Learning as my minor area during my master's:cyclone:
 
 ![counter](https://enb5yzqpgkpxqkl.m.pipedream.net)
 
