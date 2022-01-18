@@ -3,8 +3,8 @@
 <p><em>M.Sc in Informatics at <a href="https://www.tum.de/">Technical University of Munich</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://motius.de/">Motius</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: aslikok](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aslikok/)](https://www.linkedin.com/in/aslikok/)
-[![GitHub imgeaslikok](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/imgeaslikok)
+[![Linkedin: aslikok](https://img.shields.io/badge/aslikok-blue?style=plastic&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/aslikok/)](https://www.linkedin.com/in/aslikok/)
+[![GitHub imgeaslikok](https://img.shields.io/github/followers/imgeaslikok?style=social)](https://github.com/imgeaslikok)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
