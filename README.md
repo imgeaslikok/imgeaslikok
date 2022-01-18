@@ -1,6 +1,6 @@
-######Software Engineer | Motius
+####Software Engineer | Motius
 
-######M.Sc in Informatics | Technical University of Munich
+####M.Sc in Informatics | Technical University of Munich
 
 Focusing on *ML*, *NLP*, *CV* during master's:cyclone:
 
