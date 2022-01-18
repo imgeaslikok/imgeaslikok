@@ -1,5 +1,8 @@
-### Software Engineer | Motius
-### M.Sc in Informatics | Technical University of Munich
+Software Engineer | Motius
+M.Sc in Informatics | Technical University of Munich
+
+Focusing on ML, NLP, CV during master's:cyclone:
+Working on Django/Backend development with Django Rest Framework, Graphene:computer:
 
 Contact me on;
 
