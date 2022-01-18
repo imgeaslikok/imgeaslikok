@@ -13,7 +13,7 @@
 asli = {
   interested_areas: ["Backend Development", "ML", "NLP", "DL", "CV"],
   code: ["Python", "C/C++"],
-  frameworks: ["Django", "Django Rest Framework", ", "Graphene", "Scrapy"],
+  frameworks: ["Django", "Django Rest Framework", "Graphene", "Scrapy"],
 }
 ```
 
