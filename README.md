@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: aslikok](https://img.shields.io/badge/aslikok-blue?style=plastic&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/aslikok/)](https://www.linkedin.com/in/aslikok/)
-[![GitHub imgeaslikok](https://img.shields.io/github/followers/imgeaslikok?style=social)](https://github.com/imgeaslikok)
+[![GitHub imgeaslikok](https://img.shields.io/github/followers/imgeaslikok?label=follow&style=social)](https://github.com/imgeaslikok)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
