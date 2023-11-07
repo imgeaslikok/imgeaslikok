@@ -1,6 +1,5 @@
 <h2> Hi, I'm Aslı! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/Mcrnr0nsO6NXV0A70c/giphy.gif" width="230">
-<p><em>M.Sc in Informatics at <a href="https://www.tum.de/">Technical University of Munich</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://motius.de/">Motius</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: aslikok](https://img.shields.io/badge/aslikok-blue?style=plastic&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/aslikok/)](https://www.linkedin.com/in/aslikok/)
