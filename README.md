@@ -5,17 +5,4 @@
 [![Linkedin: aslikok](https://img.shields.io/badge/aslikok-blue?style=plastic&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/aslikok/)](https://www.linkedin.com/in/aslikok/)
 [![GitHub imgeaslikok](https://img.shields.io/github/followers/imgeaslikok?label=follow&style=social)](https://github.com/imgeaslikok)
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```python
-asli = {
-  interested_areas: ["Backend Development", "ML", "NLP", "DL", "CV"],
-  code: ["Python", "C/C++"],
-  frameworks: ["Django", "Django Rest Framework", "Graphene", "Scrapy"],
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 ---
